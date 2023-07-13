@@ -1,0 +1,14 @@
+{"numlabels":2,
+ "learning_rate":2e-5,
+ "epsilon":1e-8,
+ "num_warmup_steps":0,
+ "model_name":"bert-base-cased",
+ "batchsize":64,
+ "lower":0,
+ "out_attn":0,
+ "out_hiddn":0,
+ "ignore_mis":1,
+ "nepochs":10,
+ "peft":0,
+ "path":"model"
+ }
